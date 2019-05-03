@@ -109,9 +109,29 @@ const NAME_LIST_PRESETS = [        // Presets for basin name lists
         ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega']
     ]
 ];
+const REPLACEMENT_NAMES = [ // replacement names for retirements
+    [ // EPAC/ATL (so far, only EPAC/ATL lists have been added, but I will try and add more eventually) 
+        [ // Female
+            ['Ava','Bethany','Chloe','Diana','Esther','Freya','Graziella','Helena','Ivanka','Jasmine','Katherine','Lily','Makayla','Natasha','Octavia','Phoebe','Roxy','Sharon','Tricia','Vanessa','Winona'],
+            ['Alyssa','Brianna','Caroline','Delilah','Eve','Fleur','Gloria','Haily','Ignatia','Jocelyn','Keira','Lucia','Melody','Noelle','Olivia','Petra','Ramona','Sophie','Trinity','Victoria','Willow'],
+            ['Angela','Bianca','Cynthia','Darlene','Elaine','Felicity','Gwen','Holly','Ivy','Jayla','Kylee','Lexi','Melanie','Natalie','Olympia','Primrose','Rosanne','Sage','Theresa','Vivian','Wilva'],
+            ['Alicia','Brenda','Christina','Deborah','Evelyn','Fatima','Gina','Heidi','Isla','Jennifer','Kara','Lilith','Madeline','Naomi','Odessa','Penny','Ruth','Sabrina','Tabitha','Vera','Winny'],
+            ['Avery','Brye','Crystal','Dawn','Esperanza','Fortuna','Gretel','Harriet','Ivana','Jane','Kaylie','Louise','Miriam','Nadia','Olivera','Penelope','Rima','Sadie','Talia','Viola','Waldhurga'],
+            ['Amber','Bella','Cali','Daphne','Elizabeth','Freida','Gertrude','Heather','Isabelle','Juliet','Kalina','Lyra','Megan','Nirvana','Oksana','Paige','Raelynn','Selena','Tori','Violet','Waki']
+        ], 
+        [ // Male
+            ['Anthony','Bruce','Cooper','Diego','Ethan','Frederic','Gregory','Hank','Irvin','Joshua','Kevin','Lucas','Marshall','Nicholas','Oliver','Patrick','Ronald','Solomon','Trevor','Vaughn','Wilson'],
+            ['Alejandro','Bryan','Caleb','Dominic','Elijah','Forrest','Gary','Harris','Iver','Jeremy','Killian','Leonard','Marcus','Nathan','Orion','Pedro','Russel','Scott','Troy','Vernon','Will'],
+            ['Axel','Benjamin','Connor','Donovan','Ezra','Fidel','Giovanni','Hayden','Isaiah','Justin','Kane','Landon','Malcolm','Neil'.'Orlando','Percival','Roy','Santiago','Trevon','Vladimir','Wade'],
+            ['Ash','Brandon','Caden','Devon','Emilio','Flynn','Gabriel','Harmon','Ilya','Jameson','Kinsley','Leon','Maverick','Nelson','Ozzy','Perseus','Ralph','Shane','Timothy','Valentin','Wyatt'],
+            ['Austin','Byron','Chase','Darren','Evan','Faris','Gavin','Hassan','Indra','Jonathan','Keith','Lincoln','Miguel','Nixon','Odin','Phineas','Ross','Steve','Theo','Virgo','Wilbert'],
+            ['Amir','Brad','Cedric','Derek','Ezekiel','Fox','Greyson','Hezekiah','Ilan','Jeremiah','Kieran','Levi','Maddox','Nehemiah','Obadiah','Parker','Reuben','Sheldon','Toby','Vito','Ward']  
+       ]
+    ]
+];  
 const HURRICANE_STRENGTH_TERM = ["Cyclone","Hurricane","Typhoon"];
 const KEY_LEFT_BRACKET = 219;
-const KEY_RIGHT_BRACKET = 221;
+const KEY_RIGHT_BRACKET = 2 21;
 const KEY_F11 = 122;
 const KEY_REPEAT_COOLDOWN = 15;
 const KEY_REPEATER = 5;
