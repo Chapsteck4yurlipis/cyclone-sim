@@ -116,7 +116,7 @@ const REPLACEMENT_NAMES = [ // replacement names for retirements
             ['Alyssa','Brianna','Caroline','Delilah','Eve','Fleur','Gloria','Haily','Ignatia','Jocelyn','Keira','Lucia','Melody','Noelle','Oriana','Petra','Ramona','Sophie','Trinity','Victoria','Willow'],
             ['Angela','Bianca','Cynthia','Darlene','Elaine','Felicity','Gwen','Holly','Ivy','Jayla','Kylee','Lexi','Melanie','Natalie','Olympia','Primrose','Rosanne','Sage','Theresa','Vivian','Wilva'],
             ['Alicia','Brenda','Christina','Deborah','Evelyn','Fatima','Gina','Heidi','Isla','Jennifer','Kara','Lilith','Madeline','Naomi','Odessa','Penny','Ruth','Sabrina','Tabitha','Vera','Winny'],
-            ['Avery','Brye','Crystal','Dawn','Esperanza','Fortuna','Gretel','Harriet','Ivana','Jane','Kaylie','Louise','Madison','Nadia','Olivera','Penelope','Rima','Sadie','Talia','Viola','Waldhurga'],
+            ['Avery','Brye','Crystal','Dawn','Esperanza','Fortuna','Gretel','Harriet','Ivana','Jane','Kaylie','Louise','Morgan','Nadia','Olivera','Penelope','Rima','Sadie','Talia','Viola','Waldhurga'],
             ['Amber','Bella','Cali','Daphne','Elizabeth','Freida','Gertrude','Heather','Isabelle','Juliet','Kalina','Lyra','Megan','Nirvana','Oksana','Paige','Raelynn','Selena','Tori','Violet','Waki']
         ], 
         [ // Male
